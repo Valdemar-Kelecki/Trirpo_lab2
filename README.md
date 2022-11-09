@@ -9,7 +9,7 @@
 1.2.2 [Возможности бизнеса](#business_opportunities)  
 1.2.3 [Границы проекта](#project_boundary)  
 1.3 [Обзор аналогов](#analogues) 
-1.3.1 [Myth Defence](#Myth_Defence)                                                
+1.3.1 [Myth Defence](#Myth_Defence)                                                                                                                                     
 1.3.2 [Plants vs. Zombies](#PlantsVSZombies)  
 2 [Требования пользователя](#user_requirements)  
 2.1 [Программные интерфейсы](#software_interfaces)  
