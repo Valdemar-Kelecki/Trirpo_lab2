@@ -8,8 +8,11 @@
 1.2.1 [Исходные данные](#initial_data)   
 1.2.2 [Границы проекта](#project_boundary)  
 1.3 [Обзор аналогов](#analogues) 
+
 1.3.1 [Myth Defence](#Myth_Defence)
+
 1.3.2 [Plants vs. Zombies](#PlantsVSZombies)
+
 2 [Требования пользователя](#user_requirements)  
 2.1 [Программные интерфейсы](#software_interfaces)  
 2.2 [Интерфейс пользователя](#user_interface)  
