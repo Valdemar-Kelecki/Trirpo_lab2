@@ -85,8 +85,8 @@
 <a name="user_specifications"/>
 
 Игровое окно
-![Игровое окно]
-(https://github.com/Valdemar-Kelecki/Trirpo_lab2/blob/main/Images/Main.png)
+
+![Игровое окно](https://github.com/Valdemar-Kelecki/Trirpo_lab2/blob/main/Images/Main.png)
 
 ## 2.3 Характеристики пользователей
 
